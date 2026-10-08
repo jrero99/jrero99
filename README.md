@@ -1,18 +1,39 @@
-<h1 align="center">Hi 👋, I'm Javier Redondo Rodríguez</h1>
-<h3 align="center">FullStack Web Developer based on Barcelona</h3>
+## Hi, I'm Javier Redondo
 
-- 🌱 I’m currently learning **React**
+Full-Stack & AI Engineer based in Barcelona. I design, build and ship scalable SaaS platforms and AI agents end to end, mostly with **React**, **Node.js** and **Google Cloud**.
 
-- 👨‍💻 All of my projects are available at [https://jrero99.github.io/portfolio/](https://jrero99.github.io/portfolio/)
+Open to freelance projects and full-time roles.
 
-- 📫 How to reach me **jredondorodriguez@gmail.com**
+[javirero.dev](https://javirero.dev) · [LinkedIn](https://www.linkedin.com/in/redondorodriguezjavier/) · [jredondorodriguez99@gmail.com](mailto:jredondorodriguez99@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/redondorodriguezjavier/](https://www.linkedin.com/in/redondorodriguezjavier/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/redondorodriguezjavier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redondorodriguezjavier" height="30" width="40" /></a>
+### What I'm working on
+
+- **Multi-tenant SaaS at CedetecGroup.** An academic and financial management platform that serves several campuses at once. I built the Node.js/Express REST API, the React admin panel and student portal, Stripe payment automation, Moodle/Brightspace and Google Workspace integrations, and a BigQuery data warehouse. It runs on Cloud Run with CI/CD.
+- **An MCP server.** It lets people from different departments query the platform's data straight from their AI assistants.
+- **A multi-agent dev pipeline.** Five chained agents (plan → build → test → QA → docs) that hand work to each other and send it back when something fails.
+
+### Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**La Casa Nostra**](https://github.com/jrero99/lcn) · [live](https://lacasanostragrup.es) | Ordering and table-booking platform for a sandwich shop in Mataró. JWT and Google sign-in, server-side price checks, rate limiting, 90% test coverage. | React · Node.js · PostgreSQL · Prisma · Firebase |
+| **AquaFlow** | Smart irrigation for farms. Ingests LoRaWAN/MQTT sensor data, models soil physics to detect leaks and blockages, and streams alerts to a real-time dashboard. | Next.js · Django · Celery · Redis · MQTT · Docker |
+| [**Portfolio**](https://github.com/jrero99/portfolio) · [live](https://javirero.dev) | My personal site, in English and Spanish, light and dark. | React 19 · Vite · Tailwind CSS v4 |
+
+### Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,python,django,php,laravel,postgres,mysql,redis,prisma,gcp,firebase,docker,githubactions,nginx,jest,vitest,git&perline=12" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, Node.js, Express, Python, Django, PHP, Laravel, PostgreSQL, MySQL, Redis, Prisma, Google Cloud, Firebase, Docker, GitHub Actions, Nginx, Jest, Vitest, Git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**AI & LLMs:** Claude · MCP · multi-agent systems · RAG · LangChain · OpenAI API · embeddings · Pinecone · Hugging Face
+
+**Data:** BigQuery · Fivetran
+
+### A bit more
+
+- Computer Engineering at Universitat Oberta de Catalunya
+- Associate AI Engineer for Developers, DataCamp (2026)
+- Spanish and Catalan (native), English (B1)
